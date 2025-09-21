@@ -1,0 +1,128 @@
+[
+  {
+    "id": "review-1",
+    "movieId": "movie-1",
+    "user": "SciFiFan92",
+    "comment": "Absolutely stunning! Denis Villeneuve has outdone himself. The visuals are breathtaking and Timothée Chalamet delivers a powerful performance. A worthy sequel that expands the Dune universe beautifully.",
+    "stars": 5
+  },
+  {
+    "id": "review-2",
+    "movieId": "movie-1",
+    "user": "MovieBuff2024",
+    "comment": "Great movie with amazing cinematography. The IMAX experience was incredible. Some pacing issues but overall a solid continuation of the story.",
+    "stars": 4
+  },
+  {
+    "id": "review-3",
+    "movieId": "movie-1",
+    "user": "CinemaLover",
+    "comment": "Visually spectacular but felt a bit long. Zendaya and Timothée have great chemistry. The desert scenes are absolutely mesmerizing.",
+    "stars": 4
+  },
+  {
+    "id": "review-4",
+    "movieId": "movie-2",
+    "user": "HistoryNerd",
+    "comment": "Christopher Nolan's masterpiece! Cillian Murphy's portrayal of Oppenheimer is haunting and brilliant. The film handles the moral complexity of the atomic bomb perfectly.",
+    "stars": 5
+  },
+  {
+    "id": "review-5",
+    "movieId": "movie-2",
+    "user": "FilmCritic99",
+    "comment": "Technically impressive but emotionally distant. The cinematography is beautiful but the 3-hour runtime feels excessive. Still worth watching for Murphy's performance.",
+    "stars": 3
+  },
+  {
+    "id": "review-6",
+    "movieId": "movie-2",
+    "user": "DramaFan",
+    "comment": "Incredible biographical drama. The way Nolan weaves the timeline is genius. Emily Blunt and Robert Downey Jr. provide excellent supporting performances.",
+    "stars": 5
+  },
+  {
+    "id": "review-7",
+    "movieId": "movie-3",
+    "user": "AnimationExpert",
+    "comment": "The animation style is revolutionary! Every frame is a work of art. The multiverse concept is handled brilliantly and the emotional core is strong.",
+    "stars": 5
+  },
+  {
+    "id": "review-8",
+    "movieId": "movie-3",
+    "user": "SpiderFan",
+    "comment": "Better than the first one! The animation is mind-blowing and the story deals with complex themes while staying fun. Miles Morales continues to be a great Spider-Man.",
+    "stars": 5
+  },
+  {
+    "id": "review-9",
+    "movieId": "movie-3",
+    "user": "FamilyMovieReviewer",
+    "comment": "Great for all ages. The visual style is unique and engaging. Some parts might be confusing for younger viewers but overall an excellent animated film.",
+    "stars": 4
+  },
+  {
+    "id": "review-10",
+    "movieId": "movie-4",
+    "user": "ActionHero",
+    "comment": "The action sequences are absolutely incredible! Keanu Reeves proves he still has it. The staircase fight scene alone is worth the price of admission.",
+    "stars": 5
+  },
+  {
+    "id": "review-11",
+    "movieId": "movie-4",
+    "user": "MovieGoer123",
+    "comment": "Non-stop action but gets repetitive. Great choreography and cinematography. Donnie Yen is a fantastic addition to the cast.",
+    "stars": 4
+  },
+  {
+    "id": "review-12",
+    "movieId": "movie-4",
+    "user": "ThrillerFan",
+    "comment": "Perfect conclusion to the series. The emotional stakes feel real despite the over-the-top action. Keanu's performance is surprisingly touching.",
+    "stars": 4
+  },
+  {
+    "id": "review-13",
+    "movieId": "movie-5",
+    "user": "MarvelFan2023",
+    "comment": "A perfect send-off to the Guardians! James Gunn knows these characters inside and out. The emotional moments hit hard while keeping the humor intact.",
+    "stars": 5
+  },
+  {
+    "id": "review-14",
+    "movieId": "movie-5",
+    "user": "ComicBookNerd",
+    "comment": "Great character development for Rocket. The third act is incredibly emotional. Some pacing issues but overall a satisfying conclusion.",
+    "stars": 4
+  },
+  {
+    "id": "review-15",
+    "movieId": "movie-5",
+    "user": "MCUReviewer",
+    "comment": "Funny and heartfelt. The soundtrack is amazing as always. Chris Pratt and the ensemble cast deliver strong performances throughout.",
+    "stars": 4
+  },
+  {
+    "id": "review-16",
+    "movieId": "movie-6",
+    "user": "BatmanFan",
+    "comment": "Finally, a Batman movie that feels like a detective story! Robert Pattinson brings a new darkness to the character. The cinematography is gorgeous.",
+    "stars": 5
+  },
+  {
+    "id": "review-17",
+    "movieId": "movie-6",
+    "user": "DCComicsLover",
+    "comment": "Dark and gritty in the best way. Paul Dano's Riddler is genuinely terrifying. The car chase scene is one of the best ever filmed.",
+    "stars": 4
+  },
+  {
+    "id": "review-18",
+    "movieId": "movie-6",
+    "user": "SuperheroFan",
+    "comment": "A bit too long but atmospheric and engaging. Pattinson surprised me with his portrayal. Zoë Kravitz makes an excellent Catwoman.",
+    "stars": 4
+  }
+]
