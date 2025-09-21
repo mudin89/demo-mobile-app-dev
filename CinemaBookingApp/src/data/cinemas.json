@@ -1,0 +1,44 @@
+[
+  {
+    "id": "cinema-1",
+    "name": "GSC Mid Valley",
+    "location": "Mid Valley Megamall",
+    "brand": "GSC",
+    "availableMovies": ["movie-1", "movie-2", "movie-3", "movie-4", "movie-5", "movie-6"]
+  },
+  {
+    "id": "cinema-2",
+    "name": "TGV KLCC",
+    "location": "Suria KLCC",
+    "brand": "TGV",
+    "availableMovies": ["movie-1", "movie-3", "movie-4", "movie-5"]
+  },
+  {
+    "id": "cinema-3",
+    "name": "GSC One Utama",
+    "location": "1 Utama Shopping Centre",
+    "brand": "GSC",
+    "availableMovies": ["movie-1", "movie-4", "movie-6"]
+  },
+  {
+    "id": "cinema-4",
+    "name": "MBO Mid Valley",
+    "location": "Mid Valley Megamall",
+    "brand": "MBO",
+    "availableMovies": ["movie-2", "movie-3", "movie-5", "movie-6"]
+  },
+  {
+    "id": "cinema-5",
+    "name": "TGV One Utama",
+    "location": "1 Utama Shopping Centre",
+    "brand": "TGV",
+    "availableMovies": ["movie-1", "movie-2", "movie-4"]
+  },
+  {
+    "id": "cinema-6",
+    "name": "GSC KLCC",
+    "location": "Suria KLCC",
+    "brand": "GSC",
+    "availableMovies": ["movie-1", "movie-3", "movie-5", "movie-6"]
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "id": "combo-1",
+    "category": "Combo",
+    "name": "Classic Movie Combo",
+    "description": "Large popcorn + Large soft drink + Medium nachos",
+    "price": 18,
+    "image": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "combo-2",
+    "category": "Combo",
+    "name": "Premium Duo Combo",
+    "description": "2 Large popcorns + 2 Large drinks + Sharing size candy",
+    "price": 25,
+    "image": "https://images.unsplash.com/photo-1606755456206-1f6d3c72ff79?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "combo-3",
+    "category": "Combo",
+    "name": "Family Feast Combo",
+    "description": "2 Large popcorns + 4 Medium drinks + 2 Hot dogs + Nachos",
+    "price": 32,
+    "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "snack-1",
+    "category": "Food",
+    "name": "Buttered Popcorn",
+    "description": "Freshly popped corn with real butter",
+    "price": 7,
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "snack-2",
+    "category": "Food",
+    "name": "Caramel Popcorn",
+    "description": "Sweet caramel-coated popcorn",
+    "price": 8,
+    "image": "https://images.unsplash.com/photo-1578849278619-e73505e9610f?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "snack-3",
+    "category": "Food",
+    "name": "Cheese Nachos",
+    "description": "Crispy tortilla chips with melted cheese sauce",
+    "price": 9,
+    "image": "https://images.unsplash.com/photo-1570197788417-0e82375c9371?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "snack-4",
+    "category": "Food",
+    "name": "Hot Dog",
+    "description": "All-beef hot dog with choice of toppings",
+    "price": 6,
+    "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "snack-5",
+    "category": "Food",
+    "name": "Chicken Tenders",
+    "description": "Crispy breaded chicken tenders with dipping sauce",
+    "price": 12,
+    "image": "https://images.unsplash.com/photo-1606755962773-d324e608aac9?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "snack-6",
+    "category": "Food",
+    "name": "Loaded Fries",
+    "description": "Crispy fries with cheese, bacon bits, and green onions",
+    "price": 9,
+    "image": "https://images.unsplash.com/photo-1576107232684-1279f390859f?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "snack-7",
+    "category": "Food",
+    "name": "Pretzel Bites",
+    "description": "Soft pretzel bites with cheese dipping sauce",
+    "price": 8,
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "candy-1",
+    "category": "Food",
+    "name": "M&M's",
+    "description": "Classic chocolate candies",
+    "price": 5,
+    "image": "https://images.unsplash.com/photo-1499195333224-3ce974eecb47?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "candy-2",
+    "category": "Food",
+    "name": "Sour Patch Kids",
+    "description": "Sweet and sour gummy candy",
+    "price": 5,
+    "image": "https://images.unsplash.com/photo-1571506165871-ee72a35bc9d4?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "candy-3",
+    "category": "Food",
+    "name": "Twizzlers",
+    "description": "Strawberry flavored licorice twists",
+    "price": 5,
+    "image": "https://images.unsplash.com/photo-1582058091505-f87a2e55a40f?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "drink-1",
+    "category": "Drink",
+    "name": "Coca-Cola",
+    "description": "Classic Coca-Cola soft drink",
+    "price": 6,
+    "image": "https://images.unsplash.com/photo-1461344577544-4e5dc9487184?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "drink-2",
+    "category": "Drink",
+    "name": "Sprite",
+    "description": "Lemon-lime flavored soft drink",
+    "price": 6,
+    "image": "https://images.unsplash.com/photo-1586190848861-99aa4a171e90?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "drink-3",
+    "category": "Drink",
+    "name": "Orange Fanta",
+    "description": "Orange flavored soft drink",
+    "price": 6,
+    "image": "https://images.unsplash.com/photo-1595475038665-3a0f1789be88?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "drink-4",
+    "category": "Drink",
+    "name": "Bottled Water",
+    "description": "Premium spring water",
+    "price": 3,
+    "image": "https://images.unsplash.com/photo-1523362628745-0c100150b504?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "drink-5",
+    "category": "Drink",
+    "name": "Coffee",
+    "description": "Freshly brewed coffee",
+    "price": 6,
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "drink-6",
+    "category": "Drink",
+    "name": "Iced Tea",
+    "description": "Refreshing iced tea with lemon",
+    "price": 6,
+    "image": "https://images.unsplash.com/photo-1571091655789-405eb7a3a3a8?w=400&h=400&fit=crop&crop=center&q=80"
+  },
+  {
+    "id": "drink-7",
+    "category": "Drink",
+    "name": "Energy Drink",
+    "description": "High-caffeine energy drink",
+    "price": 7,
+    "image": "https://images.unsplash.com/photo-1527960471264-932f39eb5846?w=400&h=400&fit=crop&crop=center&q=80"
+  }
+]
