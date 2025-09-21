@@ -1,4 +1,5 @@
-const {getDefaultConfig, mergeConfig} = require('@react-native/metro-config');
+const path = require("path"); // 👈 Add this line
+const { getDefaultConfig, mergeConfig } = require('@react-native/metro-config');
 
 /**
  * Metro configuration
@@ -9,7 +10,7 @@ const {getDefaultConfig, mergeConfig} = require('@react-native/metro-config');
 const config = {
     resolver: {
         alias: {
-            '@': path.resolve(__dirname, 'src'),
+            '@': path.resolve(__dirname, 'src'), // 👈 maps @ to src/
         },
         resolverMainFields: ['react-native', 'browser', 'main'],
     },
