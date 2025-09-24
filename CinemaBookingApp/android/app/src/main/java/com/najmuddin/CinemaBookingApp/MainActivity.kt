@@ -1,4 +1,4 @@
-package com.cinemabookingapp
+package com.najmuddin.CinemaBookingApp
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
