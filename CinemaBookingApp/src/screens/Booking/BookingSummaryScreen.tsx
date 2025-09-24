@@ -140,7 +140,7 @@ export const BookingSummaryScreen: React.FC = () => {
 
       Alert.alert(
         'Booking Error',
-        'Missing booking information. Please start the booking process again.',
+        'Missing booking information. Please start the booking process again. ',
         [
           {
             text: 'Start Over',
