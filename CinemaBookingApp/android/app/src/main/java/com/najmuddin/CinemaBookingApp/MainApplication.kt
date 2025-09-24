@@ -1,4 +1,4 @@
-package com.cinemabookingapp
+package com.najmuddin.CinemaBookingApp
 
 import android.app.Application
 import com.facebook.react.PackageList
